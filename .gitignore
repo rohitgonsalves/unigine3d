@@ -1,32 +1,23 @@
-# Prerequisites
-*.d
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#chapter 3 ignores
+Chapter-3\ch_3_project_1_cs/.thumbnails
+Chapter-3\ch_3_project_1_cs/.vs
+Chapter-3\ch_3_project_1_cs/.vscode
+Chapter-3\ch_3_project_1_cs/bin
+Chapter-3\ch_3_project_1_cs/junk
+Chapter-3\ch_3_project_1_cs/obj
+Chapter-3\ch_3_project_1_cs/*.bat
 
-# Precompiled Headers
-*.gch
-*.pch
+Chapter-3\ch_3_project_2_cpp/.thumbnails
+Chapter-3\ch_3_project_2_cpp/bin
+Chapter-3\ch_3_project_2_cpp/include
+Chapter-3\ch_3_project_2_cpp/lib
+Chapter-3\ch_3_project_2_cpp/utils
+Chapter-3\ch_3_project_2_cpp/source/.vs
+Chapter-3\ch_3_project_2_cpp/source/x64
+Chapter-3\ch_3_project_2_cpp/source/*.user
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app

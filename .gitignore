@@ -3,21 +3,27 @@
 ################################################################################
 
 #chapter 3 ignores
-Chapter-3\ch_3_project_1_cs/.thumbnails
-Chapter-3\ch_3_project_1_cs/.vs
-Chapter-3\ch_3_project_1_cs/.vscode
-Chapter-3\ch_3_project_1_cs/bin
-Chapter-3\ch_3_project_1_cs/junk
-Chapter-3\ch_3_project_1_cs/obj
-Chapter-3\ch_3_project_1_cs/*.bat
 
-Chapter-3\ch_3_project_2_cpp/.thumbnails
-Chapter-3\ch_3_project_2_cpp/bin
-Chapter-3\ch_3_project_2_cpp/include
-Chapter-3\ch_3_project_2_cpp/lib
-Chapter-3\ch_3_project_2_cpp/utils
-Chapter-3\ch_3_project_2_cpp/source/.vs
-Chapter-3\ch_3_project_2_cpp/source/x64
-Chapter-3\ch_3_project_2_cpp/source/*.user
-
-
+/.vs
+/Chapter-3/ch_3_project_1_cs/obj
+/Chapter-3/ch_3_project_1_cs/junk
+/Chapter-3/ch_3_project_1_cs/bin
+/Chapter-3/ch_3_project_1_cs/.vscode
+/Chapter-3/ch_3_project_1_cs/.vs/ch_3_project_1_cs
+/Chapter-3/ch_3_project_1_cs/.thumbnails
+/Chapter-3/ch_3_project_2_cpp/utils/natvis
+/Chapter-3/ch_3_project_2_cpp/lib
+/Chapter-3/ch_3_project_2_cpp/launch_release.bat
+/Chapter-3/ch_3_project_2_cpp/launch_editor.bat
+/Chapter-3/ch_3_project_2_cpp/launch_debug.bat
+/Chapter-3/ch_3_project_2_cpp/include
+/Chapter-3/ch_3_project_2_cpp/bin
+/Chapter-3/ch_3_project_2_cpp/.thumbnails
+/Chapter-3/flower_image_1.png
+/Chapter-3/ch_3_project_1_cs/launch_release.bat
+/Chapter-3/ch_3_project_1_cs/launch_editor.bat
+/Chapter-3/ch_3_project_1_cs/launch_debug.bat
+/Chapter-3/ch_3_project_2_cpp/source/x64/Release
+/Chapter-3/ch_3_project_2_cpp/source/.vs/ch_3_project_2_cpp/v16
+/Chapter-3/ch_3_project_1_cs/ch_3_project_1_cs.csproj
+/Chapter-3/ch_3_project_2_cpp/source/ch_3_project_2_cpp.vcxproj.user
